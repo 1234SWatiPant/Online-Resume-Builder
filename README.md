@@ -13,7 +13,7 @@ This project is a web-based resume builder developed using XAMPP. It allows user
 - MySQL
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/resume-builder.git
+1. Clone the repository: git clone https://github.com/your-username/Online-Resume-Builder.git
 2. Install XAMPP and start the Apache and MySQL services
 3. Import the database schema from database/schema.sql
 4. Configure the database connection in config/database.php
