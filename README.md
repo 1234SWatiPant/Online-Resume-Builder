@@ -8,7 +8,6 @@
 ![professional](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/bbfee444-1901-4dca-84a6-6e4dda9c6dee)
 ![personel](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/4a5a0baa-3d6c-4697-9465-72c05a0cda7c)
 ![work](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/137297f0-7b87-4f4f-8daa-a302afa7caed)
-![sample](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/40bac8a4-a7e1-409f-a6a7-44880999f42e)
 ![db](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/372ae1a9-690e-4f28-abcd-b3ff4226d32c)
 
 
