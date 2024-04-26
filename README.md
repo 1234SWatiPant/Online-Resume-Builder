@@ -5,11 +5,6 @@
 ![contact us](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/3fa1cc6d-797e-4028-915a-28718b52e8af)
 ![about](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/ebd0f0a0-92af-4819-a9ba-614346b05c1a)
 ![welcome](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/fd21af00-59be-4918-956a-3dccd9a3f8c5)
-![professional](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/bbfee444-1901-4dca-84a6-6e4dda9c6dee)
-![personel](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/4a5a0baa-3d6c-4697-9465-72c05a0cda7c)
-![work](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/137297f0-7b87-4f4f-8daa-a302afa7caed)
-![db](https://github.com/1234SWatiPant/Online-Resume-Builder/assets/125669642/372ae1a9-690e-4f28-abcd-b3ff4226d32c)
-
 
 This project is a web-based resume builder developed using XAMPP. It allows users to create professional resumes by providing their personal and professional details through a user-friendly interface.
 
